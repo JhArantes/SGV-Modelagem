@@ -1,0 +1,3 @@
+# Ignorar arquivos do Power BI e Word da pasta do dashboard
+/DashBoard Melhores Compras/*.pbix
+/DashBoard Melhores Compras/*.docx
